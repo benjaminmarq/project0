@@ -54,8 +54,32 @@ footer {
     padding: 3px;
     background-color: #0492c2;
     color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-img {
+p3, table{
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+p4, div.list {
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+    padding: 30px;
+}
+
+p5, form {
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img1 {
     border-radius: 80%;
     max-width: 5%;
     max-height: 5%;
